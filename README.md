@@ -4,7 +4,7 @@ Project Overview: The Employee Attrition project aims to analyze factors contrib
 
 Data Sources: Data was collected from the Kaggle. 
 
-Data Preparation: Data cleaning to remove duplicates and missing value. But, the quantity of data of emp having Attrition is less compared to employees whoch do not have Attrition.
+Data Preparation: Data cleaning to remove duplicates and missing value. But, the quantity of data of emp having Attrition is less compared to employees which do not have Attrition.
 
 EDA Observations:
 >> Employees working in R&D department are more, but employees from sales department or at position like sales executive,sale Representative leaves the job early.
