@@ -4,6 +4,8 @@ Project Overview: The Employee Attrition project aims to analyze factors contrib
 
 Data Sources: Data was collected from the Kaggle. 
 
+Libraries : Pandas, Numpy, SK-learn (ML Models : Logistic regression, SVC, Decision tree classifier, Random Forest classifier)
+
 Data Preparation: Data cleaning to remove duplicates and missing value. But, the quantity of data of emp having Attrition is less compared to employees which do not have Attrition.
 
 EDA Observations:
