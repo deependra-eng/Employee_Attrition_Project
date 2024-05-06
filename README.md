@@ -14,7 +14,7 @@ EDA Observations:
 >> Age column is very well normalized, most of employees are age between 25 to 40.
 >> Employees from Bachelor are more, then from Masters background. Attrition w.r.t to bachelor can be seem more because they have more and more expectation from companies and it will be interesting to see the reason behind this in this dataset.
 
-Data Modeling: We have built different Predictive models like Logistic regression(Accuracy = 0.64), Support Vector Classifier(Accuracy = 0.59), Decision Tree Classifier(Accuracy = 0.89) and last Random Forest Classifier(Accuracy = 0.96).
+Model Building: We have built different Predictive models like Logistic regression(Accuracy = 0.64), Support Vector Classifier(Accuracy = 0.59), Decision Tree Classifier(Accuracy = 0.89) and last Random Forest Classifier(Accuracy = 0.96).
 
 Model Selection : We are going ahead with Random Forest Classifier model, which performed very well. 
 
